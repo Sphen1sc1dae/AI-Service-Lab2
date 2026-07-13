@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 
 app = FastAPI(
-    title="AI Service Blueprint API",
+    title="AI Service Lab API",
     description="Master FastAPI template for AI services",
     version="1.0.0"
 )
