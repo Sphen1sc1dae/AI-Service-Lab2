@@ -5,7 +5,7 @@ import "./App.css";
 // FastAPI 서버 주소
 // ai-server(main.py)가 CORS를 모두 허용(allow_origins=["*"])하도록 설정되어 있어서
 // 별도의 Vite 프록시 없이 아래 주소로 바로 요청을 보낼 수 있습니다.
-const API_URL = "http://127.0.0.1:8000/predict";
+const API_URL = "http://backend:8000/predict";
 
 // -----------------------------------------------------------
 // 입력폼에서 사용할 항목 목록
