@@ -42,5 +42,6 @@
     "Total Revenue": 3553.25,
     "Under 30": "No",
     "Unlimited Data": "No",
-    "Zip Code": 91759
+    "Zip Code": 91759,
+    "정답(Churn Label)": "Stay"
 }
