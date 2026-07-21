@@ -39,7 +39,7 @@ app.add_middleware(
 # 3. 모델 불러오기
 # ==========================================================
 
-model = joblib.load("models/bike_demand_model.pkl")
+model = joblib.load("models/bike_demand_simple_model.pkl")
 
 
 # ==========================================================
